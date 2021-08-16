@@ -1,2 +1,1 @@
-# website
-Powers vexcodes.com though GitHub Pages
+hello there
