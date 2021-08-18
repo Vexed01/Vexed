@@ -1,4 +1,4 @@
-# Welcome to this little website
+# Welcome
 
 Docs for my [cogs](https://github.com/Vexed01/Vex-Cogs) are at [cogdocs.vexcodes.com](https://cogdocs.vexcodes.com/en/latest)
 
